@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Konstantinos Karadimas @csd4894
 - 👀 I’m interested in learning Coding and Computer Science in general and getting into cyber security 
-- 🌱 I’m currently learning the C/C++ java and python as a UoC student
+- 🌱 I’m currently learning C/C++ java and python as a UoC student
 - 📫 You can Reach me by emailing csd4894@csd.uoc.gr
